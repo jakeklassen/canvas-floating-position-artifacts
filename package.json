@@ -1,5 +1,5 @@
 {
-  "name": "floating-positions",
+  "name": "canvas-floating-positions",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
